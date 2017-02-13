@@ -114,6 +114,7 @@ class Alarms: Sequence
         }
 
     }
+    // the design is not that good, but let me know if you hav an improve version.
     //helpers for alarm edit. maybe not a good design
     func labelAtIndex(_ index: Int) -> String
     {
